@@ -9,7 +9,7 @@ public class SolitaireMancala {
       Scanner console = new Scanner(System.in);
       Random r = new Random();
    
-      int goal = 0;
+      int goal = 1;
       int moveNum = 1;
    
       intro();
